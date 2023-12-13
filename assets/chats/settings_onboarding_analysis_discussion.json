@@ -1,0 +1,77 @@
+[
+{
+  "author": {
+    "firstName": "Trelliz",
+    "id": "4c2307ba-3d40-442f-b1ff-b271f63904ca",
+    "lastName": "CPTO",
+    "imageUrl": "assets/images/trelliz_kite_logo.png"
+  },
+  "createdAt": 1655624483000,
+  "id": "634b2f0b-2486-4bfe-b36d-1c7d6313c7b7",
+  "status": "seen",
+  "text": "How urgent this activity is, both for your customers and for your other drivers? Please define as Critical (1), High (2), Medium (3), or Low (4).",
+  "type": "text"
+},
+{
+    "author": {
+      "firstName": "Matthew",
+      "id": "82091008-a484-4a89-ae75-a22bf8d6f3ac",
+      "lastName": "White"
+    },
+    "createdAt": 1655624493000,
+    "id": "113bb2e8-f74e-42cd-aa30-4085a0f52c80",
+    "status": "seen",
+    "text": "We still did not have a clear opportunity size for the with our existing customers who are interested in this offering. Once we get closer to the renewal in Dec, we will know better.",
+    "type": "text"
+  },
+  {
+    "author": {
+      "firstName": "Trelliz",
+      "id": "4c2307ba-3d40-442f-b1ff-b271f63904ca",
+      "lastName": "CPTO",
+      "imageUrl": "assets/images/trelliz_kite_logo.png"
+    },
+    "createdAt": 1655624483000,
+    "id": "634b2f0b-2486-4bfe-b36d-1c7d6313c7b5",
+    "status": "seen",
+    "text": "Since you mentioned there is a customer asking for this offering, what is the business opportunity?",
+    "type": "text"
+  },
+  {
+    "author": {
+      "firstName": "Matthew",
+      "id": "82091008-a484-4a89-ae75-a22bf8d6f3ac",
+      "lastName": "White"
+    },
+    "createdAt": 1655624473000,
+    "id": "113bb2e8-f74e-42cd-aa30-4085a0f52c59",
+    "status": "seen",
+    "text": "BTW, the cross-sale opportunity can be significantly larger than the original business we have with a customer, so the cross-sale path is probably the most important one, and must take into account the relevant ... \nRead More ",
+    "type": "text"
+  },
+  {
+    "author": {
+      "firstName": "Matthew",
+      "id": "82091008-a484-4a89-ae75-a22bf8d6f3ac",
+      "lastName": "White"
+    },
+    "createdAt": 1655624463000,
+    "id": "113bb2e8-f74e-42cd-aa30-4085a0f52c58",
+    "status": "seen",
+    "text": "Realistically, it is all the above. By discovering more digital assets with APIs, we can introduce additional APIs to secure and significantly extend our renewal opportunities. By discovering APIs, we will also be able to offer a distinctive offering where other API security vendors, can only discover only APIs on existing digital assets which are already monitored and secured. Additionally, 2 of our existing customers are looking to explore this offering.",
+    "type": "text"
+  },
+  {
+    "author": {
+      "firstName": "Trelliz",
+      "id": "4c2307ba-3d40-442f-b1ff-b271f63904ca",
+      "lastName": "CPTO",
+      "imageUrl": "assets/images/trelliz_kite_logo.png"
+    },
+    "createdAt": 1655624460000,
+    "id": "634b2f0b-2486-4bfe-b36d-1c7d6313c7b3",
+    "status": "seen",
+    "text": "Roadmap Item: Discover organizational APIs\nI would like to better understand the motivation for this roadmap item. Is customer or prospective customer request, a cross-sale opportunity, or a competitive differentiation?",
+    "type": "text"
+  }
+]

@@ -1,0 +1,105 @@
+[
+  {
+    "author": {
+      "firstName": "Matthew",
+      "id": "82091008-a484-4a89-ae75-a22bf8d6f3ac",
+      "lastName": "White"
+    },
+    "createdAt": 1655648408000,
+    "id": "6a1a4351-cf05-4d0c-9d0f-47ed378b6114",
+    "status": "seen",
+    "text": "I have created an access token for you as a read only role. token: ZZZZZZZZZZZ",
+    "type": "text"
+  },
+  {
+    "author": {
+      "firstName": "Trelliz",
+      "id": "4c2307ba-3d40-442f-b1ff-b271f63904ca",
+      "lastName": "CPTO",
+      "imageUrl": "assets/images/trelliz_kite_logo.png"
+    },
+    "createdAt": 1655648412000,
+    "id": "c67ed376-52bf-4d4e-ba2a-7a0f8467b22b",
+    "status": "seen",
+    "text": "We would like to get intimate with your code, and need only read-only access. Please add Trelliz with a read role account to your GitHub using the steps described here: https://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-your-project/managing-access-to-your-projects",
+    "type": "text"
+  },
+  {
+    "author": {
+      "firstName": "Matthew",
+      "id": "82091008-a484-4a89-ae75-a22bf8d6f3ac",
+      "lastName": "White"
+    },
+    "createdAt": 1655648408000,
+    "id": "6a1a4351-cf05-4d0c-9d0f-47ed378b6113",
+    "status": "seen",
+    "text": "Yes, this is our Gartner Peer Insight, worth taking into account: https://www.gartner.com/reviews/market/security/vendor/qwerty/product/qwerty/alternatives",
+    "type": "text"
+  },
+  {
+    "author": {
+      "firstName": "Trelliz",
+      "id": "4c2307ba-3d40-442f-b1ff-b271f63904ca",
+      "lastName": "CPTO",
+      "imageUrl": "assets/images/trelliz_kite_logo.png"
+    },
+    "createdAt": 1655648404000,
+    "id": "c67ed376-52bf-4d4e-ba2a-7a0f8467b22a",
+    "status": "seen",
+    "text": "Are there any other interesting references or publicly published data that Reagle may missed that can help better understand your story? If you do, please share the URL.",
+    "type": "text"
+  },
+  {
+    "author": {
+      "firstName": "Matthew",
+      "id": "82091008-a484-4a89-ae75-a22bf8d6f3ac",
+      "lastName": "White"
+    },
+    "createdAt": 1655648400000,
+    "id": "6a1a4351-cf05-4d0c-9d0f-47ed378b6112",
+    "mimeType": "application/pdf",
+    "name": "user_guide.pdf",
+    "size": 10550000,
+    "status": "seen",
+    "type": "file",
+    "uri": "https://www.esmadrid.com/sites/default/files/documentos/madrid_imprescindible_2016_ing_web_0.pdf"
+  },
+  {
+    "author": {
+      "firstName": "Trelliz",
+      "id": "4c2307ba-3d40-442f-b1ff-b271f63904ca",
+      "lastName": "CPTO",
+      "imageUrl": "assets/images/trelliz_kite_logo.png"
+    },
+    "createdAt": 1655624464000,
+    "id": "38681a33-2563-42aa-957b-cfc12f791d16",
+    "status": "seen",
+    "text": "Good, it worked. Do you have a user guide for your product? If you do, please upload it?",
+    "type": "text"
+  },
+  {
+    "author": {
+      "firstName": "Matthew",
+      "id": "82091008-a484-4a89-ae75-a22bf8d6f3ac",
+      "lastName": "White"
+    },
+    "createdAt": 1655624463000,
+    "id": "113bb2e8-f74e-42cd-aa30-4085a0f52c58",
+    "status": "seen",
+    "text": "username: demo@qwerty.com\npassword: ???????",
+    "type": "text"
+  },
+  {
+    "author": {
+      "firstName": "Trelliz",
+      "id": "4c2307ba-3d40-442f-b1ff-b271f63904ca",
+      "lastName": "CPTO",
+      "imageUrl": "assets/images/trelliz_kite_logo.png"
+    },
+    "createdAt": 1655624460000,
+    "id": "634b2f0b-2486-4bfe-b36d-1c7d6313c7b3",
+    "status": "seen",
+    "text": "Hi Matthew! For the initial setup process, Trellize would like to get to know Qwerty.com better. We have already accessed your website, published press-releases, and other publicly accessible data. We would like to ask for your portal access, for us to know better your product. Assuming you have a demo account for prospect meetings, can you provide us with the credentials for this account?",
+    "type": "text"
+  }
+]

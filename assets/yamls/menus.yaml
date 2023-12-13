@@ -1,0 +1,30 @@
+'Dashboard':
+  - 'Data Bar':
+    - 'Number of Roadmap Items Processed'
+    - 'Number of Press Releases Generated'
+    - 'Number of Epics Generated'
+    - 'Number of User Stories Generated'
+    - 'Number of Tasks Generated'
+    - 'Velocity analysis'
+  - 'Widgets':
+    - '% of Roadmap Items covered'
+    - 'Code satisfying requirements stats…'
+    - 'Planning vs. Execution / Effort Estimation vs. Delivery'
+    - 'Before and After ?'
+'Projects':
+  - 'Manage Projects':
+    - 'Create a New Project'
+    - 'View / Edit Project'
+'Roadmap':
+  - 'Manage Roamap Items':
+    - 'Add (OR Import) a new Roadmap Item'
+'Settings':
+  - 'Onboarding':
+    - 'Quick Initial Setup' 
+    - 'Onboarding Analysis Discussion'
+  - 'Integration':
+    - 'Code Management'
+    - 'Code Generation Tools'
+    - 'Documentation Generation Tools'
+    - 'Project Management'
+    - 'Support & Documentation Tools'
