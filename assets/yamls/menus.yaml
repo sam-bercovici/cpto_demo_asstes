@@ -10,8 +10,6 @@
     - 'Quick Initial Setup' 
     - 'Onboarding Analysis Discussion'
   - 'Integration':
-    - 'Code Management'
-    - 'Code Generation Tools'
-    - 'Documentation Generation Tools'
-    - 'Project Management'
-    - 'Support & Documentation Tools'
+    - 'Salesforce'
+    - 'Monday'
+    - 'Atlassian Jira'
