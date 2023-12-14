@@ -1,15 +1,4 @@
 'Dashboard':
-  - 'Data Bar':
-    - 'Number of Roadmap Items Processed'
-    - 'Number of Press Releases Generated'
-    - 'Number of Epics Generated'
-    - 'Number of User Stories Generated'
-    - 'Number of Tasks Generated'
-    - 'Velocity analysis'
-  - 'Widgets':
-    - '% of Roadmap Items covered'
-    - 'Code satisfying requirements stats…'
-    - 'Planning vs. Execution / Effort Estimation vs. Delivery'
 'Projects':
   - 'Manage Projects':
     - 'Create a New Project'
