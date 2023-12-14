@@ -1,15 +1,19 @@
 'Projects':
   - 'Manage Projects':
-    - 'Create a New Project'
+    - 'Create a New Project/Product'
     - 'View / Edit Project'
 'Roadmap':
+  - 'Roadmap OKRs'
   - 'Manage Roadmap Items':
-    - 'Add (OR Import) a new Roadmap Item'
+    - 'Roadmap Items'
+    - 'Add a new Roadmap Item'
 'Settings':
   - 'Onboarding':
     - 'Quick Initial Setup' 
     - 'Onboarding Analysis Discussion'
   - 'Integration':
+    - 'Your portal'
+    - 'Zendesk'
     - 'Salesforce'
     - 'Monday'
     - 'Atlassian Jira'
