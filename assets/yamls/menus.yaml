@@ -1,9 +1,9 @@
 'Projects':
   - 'Manage Projects':
-    - 'Create a New Project/Product'
-    - 'View / Edit Project'
+    - 'Create a New Project'
+    - 'Edit Project'
 'Roadmap':
-  - 'Roadmap OKRs'
+  - 'Roadmap OKRs':
   - 'Manage Roadmap Items':
     - 'Roadmap Items'
     - 'Add a new Roadmap Item'
