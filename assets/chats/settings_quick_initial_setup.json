@@ -16,7 +16,7 @@
       "firstName": "Trelliz",
       "id": "4c2307ba-3d40-442f-b1ff-b271f63904ca",
       "lastName": "CPTO",
-      "imageUrl": "assets/images/trelliz_kite_logo.png"
+      "imageUrl": "https://raw.githubusercontent.com/sam-bercovici/cpto_demo_asstes/main/assets/images/trelliz_kite_logo.png"
     },
     "createdAt": 1655648412000,
     "id": "c67ed376-52bf-4d4e-ba2a-7a0f8467b22b",
@@ -41,7 +41,7 @@
       "firstName": "Trelliz",
       "id": "4c2307ba-3d40-442f-b1ff-b271f63904ca",
       "lastName": "CPTO",
-      "imageUrl": "assets/images/trelliz_kite_logo.png"
+      "imageUrl": "https://raw.githubusercontent.com/sam-bercovici/cpto_demo_asstes/main/assets/images/trelliz_kite_logo.png"
     },
     "createdAt": 1655648404000,
     "id": "c67ed376-52bf-4d4e-ba2a-7a0f8467b22a",
@@ -69,7 +69,7 @@
       "firstName": "Trelliz",
       "id": "4c2307ba-3d40-442f-b1ff-b271f63904ca",
       "lastName": "CPTO",
-      "imageUrl": "assets/images/trelliz_kite_logo.png"
+      "imageUrl": "https://raw.githubusercontent.com/sam-bercovici/cpto_demo_asstes/main/assets/images/trelliz_kite_logo.png"
     },
     "createdAt": 1655624464000,
     "id": "38681a33-2563-42aa-957b-cfc12f791d16",
@@ -94,7 +94,7 @@
       "firstName": "Trelliz",
       "id": "4c2307ba-3d40-442f-b1ff-b271f63904ca",
       "lastName": "CPTO",
-      "imageUrl": "assets/images/trelliz_kite_logo.png"
+      "imageUrl": "https://raw.githubusercontent.com/sam-bercovici/cpto_demo_asstes/main/assets/images/trelliz_kite_logo.png"
     },
     "createdAt": 1655624460000,
     "id": "634b2f0b-2486-4bfe-b36d-1c7d6313c7b3",
