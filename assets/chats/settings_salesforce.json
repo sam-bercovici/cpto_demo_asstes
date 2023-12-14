@@ -1,0 +1,15 @@
+[
+  {
+    "author": {
+      "firstName": "Trelliz",
+      "id": "4c2307ba-3d40-442f-b1ff-b271f63904ca",
+      "lastName": "CPTO",
+      "imageUrl": "https://raw.githubusercontent.com/sam-bercovici/cpto_demo_asstes/main/assets/images/trelliz_kite_logo.png"
+    },
+    "createdAt": 1655624460000,
+    "id": "634b2f0b-2486-4bfe-b36d-1c7d6313c7b3",
+    "status": "seen",
+    "text": "Please provide credentials for accessing your Salesforce information.",
+    "type": "text"
+  }
+]
